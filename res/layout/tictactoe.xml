@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/tictactoe_back" />
+    
+    <ImageView
+        android:id="@+id/block33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="-100dp"
+        android:src="@drawable/tictactoe_blank" />
+   
+     <ImageView
+        android:id="@+id/block32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-97dp"
+        android:src="@drawable/tictactoe_blank" />
+       
+    <ImageView
+        android:id="@+id/block31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_marginTop="-97dp"
+        android:layout_marginLeft="-100dp"
+        android:src="@drawable/tictactoe_blank" />
+
+    <ImageView
+        android:id="@+id/block11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-100dp"
+        android:layout_marginTop="-300dp"
+        android:src="@drawable/tictactoe_blank" />
+
+    <ImageView
+        android:id="@+id/block12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-97dp"
+        android:src="@drawable/tictactoe_blank" />
+
+    <ImageView
+        android:id="@+id/block13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="-97dp"
+        android:src="@drawable/tictactoe_blank" />
+    
+    <ImageView
+        android:id="@+id/block21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-100dp"
+        android:layout_marginTop="3dp"
+        android:src="@drawable/tictactoe_blank" />
+    
+    <ImageView
+        android:id="@+id/block22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-97dp"
+        android:src="@drawable/tictactoe_blank" />
+    
+   <ImageView
+        android:id="@+id/block23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="-97dp"
+        android:src="@drawable/tictactoe_blank" />
+
+</LinearLayout>

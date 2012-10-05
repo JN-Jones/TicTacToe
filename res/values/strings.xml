@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="player1">Spieler 1:</string>
+    <string name="player2">Spieler 2:</string>
+    <string name="desc">TicTacToe ist ein Spiel, bei dem es darum geht schneller als der Mitspieler 3 Punkte in einer Reihe (vertikal, horizontal und diagonal) zu setzen.</string>
+    <string name="start">Start</string>
+    <string name="p1wl">Herzlichen Glückwunsch Spieler 1!</string>
+    <string name="p2wl">Herzlichen Glückwunsch Spieler 2!</string>
+    <string name="grat">Sie haben gewonnen</string>
+    <string name="restart">Starte eine neue Runde</string>
+    <string name="exit">Beenden</string>
+    <string name="nowin">Schade, diesmal hat keiner gewonnen</string>
+    
+</resources>
